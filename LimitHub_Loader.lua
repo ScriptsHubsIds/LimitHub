@@ -1,2 +1,2 @@
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/FakeModz/LimitHub/refs/heads/main/LimitHub_Luarmor_E.lua')))()
-loadstring(game:HttpGet("https://pastefy.app/VgXvZFvF/raw", true))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/hgaQ84sfd0/0", true))()
